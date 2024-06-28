@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527057943853",
+    "project_id": "wechat-22a12",
+    "storage_bucket": "wechat-22a12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527057943853:android:a5820003ea1f468cb567a4",
+        "android_client_info": {
+          "package_name": "com.example.wechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNq_zJ-SdLiySSqJ6E2hVomHTp3cOH3JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
